@@ -1,2 +1,2 @@
 # 243Game
-[Play It here] (http://mohitbhatia1994.github.io/243Game/)
+[Play It here] (http://www.acsu.buffalo.edu/~mohitbha/283.html)
